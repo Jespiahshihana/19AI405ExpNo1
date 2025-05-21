@@ -226,7 +226,7 @@ print(environment.status)
 print(agent.performance)
 
 <h2>OUTPUT</h2>
-![image](https://github.com/user-attachments/assets/8a768cec-1fea-4a63-aa67-28547a90e81f)
+![image](https://github.com/user-attachments/assets/8a768cec-1fea-4a63-aa67-28547a90e81f) 
 
 <h2>RESULT</h2>
 Thus, an AI agent is developed.
