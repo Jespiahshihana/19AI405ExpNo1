@@ -226,6 +226,7 @@ print(environment.status)
 print(agent.performance)
 
 <h2>OUTPUT</h2>
+
 ![image](https://github.com/user-attachments/assets/9298f234-a479-4cce-906c-b68ff9b39afd)
 
 
